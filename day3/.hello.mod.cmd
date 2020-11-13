@@ -1,1 +1,1 @@
-cmd_/home/vinodantony/devicedrivers/200250330113-Device-Drivers/hello.mod := { echo  /home/vinodantony/devicedrivers/200250330113-Device-Drivers/hello.o; echo; } > /home/vinodantony/devicedrivers/200250330113-Device-Drivers/hello.mod
+cmd_/home/vinodantony/devicedrivers/200250330113-Device-Drivers/day3/hello.mod := { echo  /home/vinodantony/devicedrivers/200250330113-Device-Drivers/day3/hello.o; echo; } > /home/vinodantony/devicedrivers/200250330113-Device-Drivers/day3/hello.mod
