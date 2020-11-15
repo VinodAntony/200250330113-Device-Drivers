@@ -7,6 +7,8 @@ day 3 - basic Hello world program
 
 
 day 4 - passed parameters to module
+	-cat /proc/kallsyms
+	-kernel symbol table
 	-exporting symbols
 	- resolving dependencies with modprobe and depmod
 
