@@ -6,6 +6,8 @@ day 3 - basic Hello world program
 		- using __init , __exit 
 
 
-day 4 - 
+day 4 - passed parameters to module
+	-exporting symbols
+	- resolving dependencies with modprobe and depmod
 
-day 5 - 
+day 5 - device drivers
