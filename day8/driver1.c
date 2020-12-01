@@ -25,6 +25,7 @@ static int __init driver_init(void){
 
 static void __exit driver_exit(void){
 
+	unregister_chrdev_region(deviceNumber,1);
 	printk(KERN_ALERT"bye bye\n");
 }
 
